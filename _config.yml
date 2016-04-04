@@ -1,0 +1,28 @@
+name: TheSquare
+favicon: null
+layout_spectrum: 0.3100900773424655
+typography_spectrum: 0.059900651685893536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9154959432780743
+  lightness: 0.1491285813972354
+  saturation: 0.9602173776365817
+  rhythmicContrast: 0.5385807093698531
+purpose: []
