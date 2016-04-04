@@ -1,4 +1,4 @@
-layout_spectrum: 0.6899642
+name: TheSquare
 opengraph:
   image: null
   type: null
@@ -9,24 +9,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9602173776365817
+  saturation: 0.530466
   brandStrength: 0.9154959432780743
-  rhythmicContrast: 0.5385807093698531
+  lightness: 0.2114695
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 0.1491285813972354
+    - '#1F0D0D'
+    - '#C6A598'
+    - '#DED1C4'
+    - '#A43A38'
+    - '#CE5A5D'
+  rhythmicContrast: 0.5385807
 typography_spectrum: 1
 cta:
   bucket: null
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: TheSquare
+layout_spectrum: 0.6899642
